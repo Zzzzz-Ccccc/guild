@@ -1,4 +1,4 @@
 # guild
 
 
-[公会战](http://htmlpreview.github.io/?https://github.com/Zzzzz-Ccccc/guild/blob/master/index.html)
+[公会战](https://zzzzz-ccccc.github.io/guild/)
